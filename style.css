@@ -22,7 +22,8 @@ header {
 
 body {
     background-color: rgb(252, 252, 173);
-    color:#000000
+    color:#000000;
+    font-family: 'Poppins', 'sans-serif';
 }
 
 .titulo-2 {
