@@ -5,19 +5,25 @@ header {
 
 .cabecalho {
     color: #FFFFFF;
-    margin: center;
+    margin-left: 660px;
+    text-align: center;
+    display: flex;
 }
 
 .cabecalho-lista-1 {
     color:#FFFFFF;
-    margin-left: 40px; /*alinhamento à esquerda*/
-    padding: 20px; /*espaçamento vertical*/
+    margin-left: 260px;
+    padding: 40px;
+    display: inline-block;
+    justify-content: center;
 }
 
 .cabecalho-lista-2 {
     color:#FFFFFF;
-    margin-left: 40px;
-    padding: 20px;
+    margin-left: 260px;
+    padding: 40px;
+    dispaly: inline-block;
+    justify-content: center;
 }
 
 body {
@@ -28,7 +34,8 @@ body {
 
 .titulo-2 {
     color:#000000;
-    justify-content: center;   
+    justify-content: center;
+    display: flex;
 }
 
 .paragrafo-1 {
