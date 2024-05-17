@@ -23,7 +23,7 @@ header {
     margin-left: 260px;
     padding: 40px;
     display: inline-block;
-    justify-content: center;
+    text-align: center;
 }
 
 body {
