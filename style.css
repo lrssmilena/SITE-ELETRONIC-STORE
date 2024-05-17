@@ -105,3 +105,17 @@ p{
     justify-content: center;
     padding: 20px;
 }
+
+.preco-1 {
+    width: 25%;
+    display: inline-block;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.preco-2 {
+    width: 25%;
+    display: inline-block;
+    margin-right: 80px;
+    text-align: center;
+}
