@@ -55,19 +55,19 @@ body {
 }
 
 .arduino {
-    width: 40%;
+    width: 15%;
     display: inline;
     padding: 30px;
 }
 
 .protoboard {
-    width:40%;
+    width:15%;
     display: inline;
     padding: 120px;
 }
 
 .multimetro {
-    width: 40%;
+    width: 15%;
     margin-right: 30px;
 }
 
@@ -91,7 +91,7 @@ body {
     display: inline;
     padding: 20px;
     margin-left: 140px;
-    
+
 }
 
 footer {
