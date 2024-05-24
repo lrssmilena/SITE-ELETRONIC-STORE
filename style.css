@@ -51,7 +51,7 @@ body {
 
 .paragrafo-2 {
     margin-left: 20x;
-    justify-content: center;
+    text-align: center;
 }
 
 .arduino {
