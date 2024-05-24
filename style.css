@@ -45,7 +45,7 @@ body {
 
 .titulo-3 {
     color:#000000;
-    text-align: center;
+    justify-content: center;
     display: flex;
 }
 
